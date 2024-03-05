@@ -18,7 +18,7 @@
 
 ![logo](https://telegra.ph//file/10c100a1903375c685c54.jpg)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+By+TheGodFather+Network%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+By+UNB+Network%E2%9D%A4%EF%B8%8F">
 </p>
 
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
@@ -54,10 +54,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 # Credit
-  - [𝗦𝗮𝗺𝗲𝗲𝗿](https://github.com/notreallysrk)
+  - [HARSH](https://t.me/harsh_un)
 
-• This project is TheGodFather.
+• This project is un bots.
 
-• TgnMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+• Sanatni Music is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Made with ♥️ by [TeamTGN](https://github.com/Godfatherakkii)
+Made with ♥️ by [Team Un](https://github.com/un-bots)
