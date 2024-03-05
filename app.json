@@ -1,12 +1,12 @@
 {
-    "name": "TGN MUSIC",
+    "name": "SANATNI MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/b5c8b5da501bb64508b10.jpg",
+    "logo": "https://graph.org//file/f5f60c2cb351ab72ab1d5.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "TGNMusic",
+    "SANATNIMusic",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
